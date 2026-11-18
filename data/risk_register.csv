@@ -1,0 +1,11 @@
+risk_id,risk,probability,cost_min_k,cost_likely_k,cost_max_k,delay_min_wks,delay_likely_wks,delay_max_wks
+R01,Ground conditions worse than surveyed,0.30,150,400,900,2,5,12
+R02,Late delivery of main transformer,0.25,50,200,600,3,8,20
+R03,Planning or consent conditions cause delay,0.20,20,80,250,2,6,16
+R04,Adverse weather during outdoor works,0.50,30,100,300,1,3,8
+R05,Contractor resource shortage,0.30,60,250,700,2,5,12
+R06,Design changes after approval,0.35,80,300,800,2,4,10
+R07,Planned outage window cancelled by network operations,0.20,40,150,400,3,6,14
+R08,Material price increases (copper and steel),0.40,100,300,900,0,1,3
+R09,Commissioning faults or failed tests,0.25,50,200,500,2,4,10
+R10,Health and safety incident causes a work stoppage,0.10,50,250,800,1,3,10

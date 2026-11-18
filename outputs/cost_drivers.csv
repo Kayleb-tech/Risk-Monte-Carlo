@@ -1,0 +1,12 @@
+,rank_correlation_with_total_cost
+Baseline estimate,0.5926731409187294
+R01 Ground conditions worse than surveyed,0.3724067858401673
+R08 Material price increases (copper and steel),0.3664842553858019
+R06 Design changes after approval,0.32105666144176215
+R05 Contractor resource shortage,0.26937429468889623
+R02 Late delivery of main transformer,0.20015525625543387
+R09 Commissioning faults or failed tests,0.17515546778280702
+R10 Health and safety incident causes a work stoppage,0.17253300391121207
+R04 Adverse weather during outdoor works,0.12745299322722325
+R07 Planned outage window cancelled by network operations,0.11854402443193116
+R03 Planning or consent conditions cause delay,0.08369386342745745

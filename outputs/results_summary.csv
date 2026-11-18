@@ -1,0 +1,3 @@
+measure,baseline,mean,P50,P80,P90,contingency_at_P80,chance_of_finishing_within_baseline
+Total cost (GBP k),12000,13049.486,13016.344,13581.641,13878.465,1581.641,0.035
+Total duration (weeks),52,62.7,62.259,67.752,70.903,15.752,0.021
